@@ -84,7 +84,7 @@ ul{
     font-weight: 400;
     letter-spacing: 0.03em;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.71em;
 }
 .title-h2{
     color: var(--h2h3-color);
